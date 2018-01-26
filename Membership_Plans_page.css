@@ -1,0 +1,160 @@
+#wrapper {
+	height: 1256px;
+	width: 1151px;
+	margin: 50px;
+	background-color: black;
+	border: solid black 1px;
+}
+
+#header {
+	height: 300px;
+	width: 1149px;
+	text-align: center;
+	border: solid white 1px;
+}
+
+#main_content {
+	height: 650px;
+	width: 778px;
+	border: solid white 1px;
+	float: right;
+}
+
+#main_content h1 {
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+#main_content p {
+	color: white;
+	text-align: center;
+}
+
+#main_content h2 {
+	color: white;
+	text-align: center;
+	font-size: 17px;
+}
+
+#label {
+	height: 25px;
+	width: 646px;
+	border: solid white 1px;
+	margin-left: 75px;
+	padding-bottom: 15px;
+}
+
+#label h1 {
+	color: white;
+}
+
+#plan {
+	height: 400px;
+	width: 200px;
+	border: solid white 1px;
+	margin-left: 75px;
+	float: left;
+}
+
+#plan h1 {
+	margin-bottom:-25px;
+}
+
+#plan p {
+	margin-top: 65px;
+}
+
+#description {
+	height: 400px;
+	width: 242px;
+	border: solid white 1px;
+	float: left;
+}
+
+#description p {
+	margin-top: 25px;
+}
+
+#price {
+	height: 400px;
+	width: 200px;
+	border: solid white 1px;
+	margin-right: 55px;
+	float: left;
+}
+
+#price h1 {
+	margin-bottom: -10px;
+}
+
+#price p {
+	margin-top: 62px;
+}
+
+#extra_info  {
+	height: 20px;
+	width: 450px;
+}
+
+#sidebar {
+	height: 650px;
+	width: 370px;
+	border: solid white 1px;
+}
+
+#sidebar li {
+	color: white;
+	font-size: 28pt;
+	margin-top: 30px;
+}
+
+#footer {
+	height: 300px;
+	width: 1149px;
+	border: solid white 1px;
+}
+
+#footer h1 {
+	color: white;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#footer h2{
+	color: white;
+	margin-left: 10px;
+}
+
+#footer_info {
+	border: solid black 1px;
+	height: 150px;
+	width: 850px;
+	float: right;
+	margin-bottom: 50px;
+}
+
+#footer_info h1 {
+	color: white;
+	margin-bottom: 5px;
+	margin-top: 50px;
+}
+
+#footer_info h2{
+	color: white;
+	margin-left: 550px;
+	margin-top: -15px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: grey;
+}
